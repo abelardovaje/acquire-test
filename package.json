@@ -1,0 +1,59 @@
+{
+  "name": "React",
+  "version": "4.1.0",
+  "adonis-version": "4.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node ace test",
+    "watch": "webpack",
+    "start:dev": "webpack-dev-server"
+  },
+  "keywords": [
+    "reactjs",
+    "react-app"
+  ],
+  "author": "",
+  "license": "",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "axios-jsonp-pro": "^1.1.3",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "bootstrap": "^4.1.1",
+    "classnames": "^2.2.5",
+    "core-js": "^2.5.6",
+    "css-loader": "^0.28.11",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "express": "^4.16.3",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.11",
+    "flag-icon-css": "^3.0.0",
+    "font-awesome": "^4.7.0",
+    "html-webpack-plugin": "^3.2.0",
+    "jsonp": "^0.2.1",
+    "lodash": "^4.17.10",
+    "node-sass": "^4.9.0",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-test-renderer": "^16.3.2",
+    "sass-loader": "^7.0.2",
+    "simple-line-icons": "^2.4.1",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1",
+    "utils": "^0.3.1",
+    "webpack": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}

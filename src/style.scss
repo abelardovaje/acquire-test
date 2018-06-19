@@ -1,0 +1,28 @@
+.main-container{
+    padding-top:50px;
+    .card-container{
+        margin:auto;
+    }
+    .card{
+        width: 150px;
+        height: 250px;
+        margin:auto;
+        span{
+            position: relative;
+            top: 76px;
+            /* color: red; */
+            font-weight: bold;
+            color:white;
+        }
+    }
+
+    .active{
+        background:green;
+    }
+
+    .inactive{
+        background:red;
+    }
+
+    button{margin-left:53px;}
+}
