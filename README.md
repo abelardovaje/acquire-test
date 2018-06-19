@@ -14,3 +14,6 @@ Be sure that nodejs is installed to your local machine [here](https://nodejs.org
 - `npm install`
 - `webpack`
 - `node server.js`
+
+## Issues
+I cant fetch data on http://shibe.online
